@@ -1,1 +1,0 @@
-web: backend/.jdk/bin/java -Xmx300m -Xms300m -Xmn20m -Xss256k -XX:MaxMetaspaceSize=120m -XX:MaxDirectMemorySize=5m -Dfile.encoding=UTF-8 -cp backend/build/libs/devops-all.jar ch.zhaw.iwi.devops.Main
